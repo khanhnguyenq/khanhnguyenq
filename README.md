@@ -14,7 +14,8 @@ let KHANH = {
 ```
 
 ## ⬆️ What I am up to:
-- Finishing up my `Daily Chuckle` and `Smile Adventure` projects
+- Finishing up my `Smile Adventure` project
+- Converting `Daily Chuckle` project from `HTML` and `JavaScript` to `React` and `TypeScript`
 
 ## 🌱 Currently learning:
 - Java
