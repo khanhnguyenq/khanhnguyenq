@@ -4,7 +4,7 @@
 - Software Engineer who loves to learn
 - Based in Orange County, CA
 
-## Techical stack:
+## Technical stack:
 ```js
 let KHANH = {
   frontend: ["HTML", "JavaScript", "CSS", "TypeScript", "React", "TailwindCSS"],
